@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "nombre": "Cumbia"
+    },
+    {
+        "id": 1,
+        "nombre": "Rock"
+    },
+    {
+        "id": 1,
+        "nombre": "Reggeton"
+    },
+    {
+        "id": 1,
+        "nombre": "Pop"
+    },
+    {
+        "id": 1,
+        "nombre": "Salsa"
+    },
+    {
+        "id": 1,
+        "nombre": "Merengue"
+    },
+    {
+        "id": 1,
+        "nombre": "Trap"
+    },
+    {
+        "id": 8,
+        "nombre": "Rap"
+    }
+]

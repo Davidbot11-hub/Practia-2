@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "nombre": "CAS",
+        "fecha": "May 19, 2025, 10:10:24 AM",
+        "id_banda": 87
+    },
+    {
+        "id": 2,
+        "nombre": "Eclipse",
+        "fecha": "May 19, 2025, 10:15:00 AM",
+        "id_banda": 87
+    },
+    {
+        "id": 3,
+        "nombre": "Horizonte",
+        "fecha": "May 18, 2025, 09:30:10 AM",
+        "id_banda": 92
+    },
+    {
+        "id": 4,
+        "nombre": "Aurora",
+        "fecha": "May 17, 2025, 08:45:50 AM",
+        "id_banda": 101
+    }
+]

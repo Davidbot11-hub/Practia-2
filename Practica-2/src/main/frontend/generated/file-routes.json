@@ -1,0 +1,41 @@
+[
+  {
+    "route": "",
+    "flowLayout": false,
+    "params": {},
+    "title": "Main Layout",
+    "children": [
+      {
+        "route": "",
+        "menu": {
+          "exclude": true
+        },
+        "flowLayout": false,
+        "params": {},
+        "title": "Main"
+      },
+      {
+        "route": "Cancion-list",
+        "title": "Cancion",
+        "menu": {
+          "icon": "vaadin:clipboard-check",
+          "order": 1,
+          "title": "Cancion"
+        },
+        "flowLayout": false,
+        "params": {}
+      },
+      {
+        "route": "Genero-list",
+        "title": "Genero",
+        "menu": {
+          "icon": "vaadin:clipboard-check",
+          "order": 2,
+          "title": "Genero"
+        },
+        "flowLayout": false,
+        "params": {}
+      }
+    ]
+  }
+]
